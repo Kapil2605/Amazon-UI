@@ -7,7 +7,7 @@ No specific prerequisites are required. You only need a web browser to view the 
 
 ### Installation
 Clone the repository:
-[git clone https://github.com/your-username/amazon-clone.git]
+[git clone https://github.com/Kapil2605/amazon-clone.git]
 (https://github.com/Kapil2605/Amazon-UI)
 
 Open index.html in your web browser.
